@@ -1,0 +1,45 @@
+.container{
+    align-items: center;
+    text-align: center;
+}
+
+.display{
+    display: inline-block;
+    padding: 8px;
+    background-color: #955fdb;
+    border-radius: 35px;
+}
+body{
+    background-color: #b4b560;
+}
+h2{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table{
+    margin: auto;
+}
+
+
+input{
+    border: 5px solid #835c57;
+    border-radius: 20px;
+    font-size: 35px;
+    width: 405px;
+    height: 85px;
+}
+
+button{
+    background: #f1a3a3;
+    font-size: 31px;
+    width: 99px;
+    height: 62px;
+    border-radius: 15px;
+    margin: 2px;
+}
+button:hover{
+    color: rgb(235, 88, 20);
+    background: #ffffff;
+    
+}
