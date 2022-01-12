@@ -40,7 +40,7 @@ for (item of buttons) {
         }
         else if (buttonText == 'DEL') {
             screenValue=screen.value.slice(0,-1);
-            solValue += screen.value.slice(0,-1);
+            solValue = screen.value.slice(0,-1);
             screen.value = solValue;
         }
         else {
